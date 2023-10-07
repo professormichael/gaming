@@ -16,11 +16,12 @@ img{
     background-color: cornflowerblue;
     border: none;
     border-radius: 40px;
+    margin-bottom: 40px;
 
 }
-img:nth-last-child(1){
-    margin-top: 40px;
-}
+
+
+
 p{
     font-size: 18px;
     color: #444443;
